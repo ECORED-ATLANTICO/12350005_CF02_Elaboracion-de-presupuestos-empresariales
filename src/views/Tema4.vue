@@ -28,51 +28,51 @@
     TabsB.color-gris.mb-5(data-aos="fade-right")
         .py-4.py-md-5(titulo="Hojas de cálculo avanzadas." :icono="require('@/assets/curso/temas/tema4/img02.svg')")
           .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
-            .col-md-7.mb-4.mb-md-0
+            .col-12.col-lg-5.mb-4.mb-lg-0
               h4 Hojas de cálculo avanzadas.
               p Las más usadas están: Microsoft Excel, Google Sheets útiles para para cálculos y proyecciones.
-            .col-md-4
+            .col-12.col-lg-5.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema4/img07.png', alt='Texto que describa la imagen')
               
         .py-4.py-md-5(titulo="Software especializados en planeación y presupuestos." :icono="require('@/assets/curso/temas/tema4/img03.svg')")
           .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
-            .col-md-7.mb-4.mb-md-0
+            .col-12.col-lg-5.mb-4.mb-lg-0
               h4 
                 i Software 
                 | especializados en planeación y presupuestos.
               p Integran módulos contables, financieros y de control. Los 
                 i software 
                 | más utilizados son por ejemplo: SAP, Oracle Hyperion, Odoo.
-            .col-md-4
+            .col-12.col-lg-5.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema4/img08.png', alt='Texto que describa la imagen')
         
         .py-4.py-md-5(titulo="Plataformas colaborativas en la nube." :icono="require('@/assets/curso/temas/tema4/img04.svg')")
           .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
-            .col-md-7.mb-4.mb-md-0
+            .col-12.col-lg-5.mb-4.mb-lg-0
               h4 Plataformas colaborativas en la nube.
               p Permiten el trabajo en tiempo real y la validación conjunta de información.
-            .col-md-4
+            .col-12.col-lg-5.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema4/img09.png', alt='Texto que describa la imagen')
         
         .py-4.py-md-5(titulo="Sistemas de inteligencia de negocios." :icono="require('@/assets/curso/temas/tema4/img05.svg')")
           .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
-            .col-md-7.mb-4.mb-md-0
+            .col-12.col-lg-5.mb-4.mb-lg-0
               h4 Sistemas de inteligencia de negocios. 
                 i (business intelligence).
               p Generan tableros de control y análisis de indicadores presupuestales.
-            .col-md-4
+            .col-12.col-lg-5.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema4/img10.png', alt='Texto que describa la imagen')
         
         .py-4.py-md-5(titulo="Aplicaciones de presentación y visualización." :icono="require('@/assets/curso/temas/tema4/img06.svg')")
           .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
-            .col-md-7.mb-4.mb-md-0
+            .col-12.col-lg-5.mb-4.mb-lg-0
               h4 Aplicaciones de presentación y visualización.
               p Facilitan la exposición clara y comprensible de los presupuestos ante la gerencia o grupos de interés. Las plataformas más empleadas son: Power BI, Tableau, Google Data Studio.
-            .col-md-4
+            .col-12.col-lg-5.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema4/img11.png', alt='Texto que describa la imagen')
         
@@ -137,8 +137,7 @@
       .col-12.col-lg-10.mx-auto
         .titulo-sexto
           h5 Tabla 3. 
-            span 
-              i Funciones estadísticas
+            span Funciones estadísticas
         .tabla-a
           table.w-100
             caption 
@@ -175,8 +174,7 @@
       .col-12.col-lg-10.mx-auto
         .titulo-sexto
           h5 Tabla 4. 
-            span 
-              i Gráficos más utilizados en presupuestos
+            span Gráficos más utilizados en presupuestos
 
         .tabla-a
           table.w-100

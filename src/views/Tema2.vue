@@ -81,41 +81,42 @@
             figure
               img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema2/img07.png', alt='imagen decorativa')
           .col-12.col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0
-            SlyderF(columnas="col-lg-6 col-xl-6")
-              .tarjeta.color-gris.p-4
-                .row.justify-content-center.mb-3
-                  .col-6.col-lg-8
-                    img(src='@/assets/curso/temas/tema2/img08.svg' alt='AvatarTop')
-                h5.text-center Operacionales.
-                p.text-center Provienen de la actividad principal de la empresa (ejemplo: ventas de productos, prestación de servicios).
+            .custom-slider
+              SlyderF(columnas="col-lg-6 col-xl-6")
+                .tarjeta.color-gris.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src='@/assets/curso/temas/tema2/img08.svg' alt='AvatarTop')
+                  h5.text-center Operacionales.
+                  p.text-center Provienen de la actividad principal de la empresa (ejemplo: ventas de productos, prestación de servicios).
 
-              .tarjeta.color-gris.p-4
-                .row.justify-content-center.mb-3
-                  .col-6.col-lg-8
-                    img(src='@/assets/curso/temas/tema2/img09.svg' alt='AvatarTop')
-                h5.text-center No operacionales.
-                p.text-center Recursos que no corresponden a la actividad central, como arriendos recibidos, dividendos o rendimientos financieros.
-              
-              .tarjeta.color-gris.p-4
-                .row.justify-content-center.mb-3
-                  .col-6.col-lg-8
-                    img(src='@/assets/curso/temas/tema2/img10.svg' alt='AvatarTop')
-                h5.text-center Extraordinarios.
-                p.text-center Aquellos eventuales o poco frecuentes, como indemnizaciones, venta de activos o donaciones.
+                .tarjeta.color-gris.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src='@/assets/curso/temas/tema2/img09.svg' alt='AvatarTop')
+                  h5.text-center No operacionales.
+                  p.text-center Recursos que no corresponden a la actividad central, como arriendos recibidos, dividendos o rendimientos financieros.
+                
+                .tarjeta.color-gris.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src='@/assets/curso/temas/tema2/img10.svg' alt='AvatarTop')
+                  h5.text-center Extraordinarios.
+                  p.text-center Aquellos eventuales o poco frecuentes, como indemnizaciones, venta de activos o donaciones.
 
-              .tarjeta.color-gris.p-4
-                .row.justify-content-center.mb-3
-                  .col-6.col-lg-8
-                    img(src='@/assets/curso/temas/tema2/img11.svg' alt='AvatarTop')
-                h5.text-center Recurrentes.
-                p.text-center Se perciben de manera periódica y estable (suscripciones, contratos de largo plazo)
-              
-              .tarjeta.color-gris.p-4
-                .row.justify-content-center.mb-3
-                  .col-6.col-lg-8
-                    img(src='@/assets/curso/temas/tema2/img12.svg' alt='AvatarTop')
-                h5.text-center No recurrentes.
-                p.text-center Se presentan en momentos puntuales y no forman parte de la operación continua.
+                .tarjeta.color-gris.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src='@/assets/curso/temas/tema2/img11.svg' alt='AvatarTop')
+                  h5.text-center Recurrentes.
+                  p.text-center Se perciben de manera periódica y estable (suscripciones, contratos de largo plazo)
+                
+                .tarjeta.color-gris.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src='@/assets/curso/temas/tema2/img12.svg' alt='AvatarTop')
+                  h5.text-center No recurrentes.
+                  p.text-center Se presentan en momentos puntuales y no forman parte de la operación continua.
           
 
     //- Subtitulo
@@ -129,56 +130,56 @@
     //- TabsB
     TabsB.color-gris.mb-5(data-aos="fade-right")
         .py-4.py-md-5(titulo="Fijos" :icono="require('@/assets/curso/temas/tema2/img13.svg')")
-          .row.py-3.px-4.px-md-5.align-items-center
-            .col-md-8.mb-4.mb-md-0
+          .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
+            .col-12.col-lg-5.mb-4.mb-lg-0
               h4 Fijos.
               p Permanecen constantes sin importar el volumen de producción (arriendos, salarios administrativos, seguros).
-            .col-md-4
+            .col-12.col-lg-5.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema2/img19.png', alt='Texto que describa la imagen')
               
         .py-4.py-md-5(titulo="Variables" :icono="require('@/assets/curso/temas/tema2/img14.svg')")
-          .row.py-3.px-4.px-md-5.align-items-center
-            .col-md-8.mb-4.mb-md-0
+          .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
+            .col-12.col-lg-5.mb-4.mb-lg-0
               h4 Variables.
               p Cambian de acuerdo con el nivel de actividad o producción (materias primas, comisiones por ventas, energía de producción).
-            .col-md-4
+            .col-12.col-lg-5.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema2/img20.png', alt='Texto que describa la imagen')
         
         .py-4.py-md-5(titulo="Directos" :icono="require('@/assets/curso/temas/tema2/img15.svg')")
-          .row.py-3.px-4.px-md-5.align-items-center
-            .col-md-8.mb-4.mb-md-0
+          .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
+            .col-12.col-lg-5.mb-4.mb-lg-0
               h4 Directos.
               p Se asocian directamente con un producto o servicio (mano de obra directa, materiales).
-            .col-md-4
+            .col-12.col-lg-5.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema2/img21.png', alt='Texto que describa la imagen')
         
         .py-4.py-md-5(titulo="Indirectos" :icono="require('@/assets/curso/temas/tema2/img16.svg')")
-          .row.py-3.px-4.px-md-5.align-items-center
-            .col-md-8.mb-4.mb-md-0
+          .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
+            .col-12.col-lg-5.mb-4.mb-lg-0
               h4 Indirectos.
               p No pueden asignarse a un producto específico, pero son necesarios para la operación (mantenimiento, supervisión, servicios generales).
-            .col-md-4
+            .col-12.col-lg-5.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema2/img22.png', alt='Texto que describa la imagen')
         
         .py-4.py-md-5(titulo="Mixtos" :icono="require('@/assets/curso/temas/tema2/img17.svg')")
-          .row.py-3.px-4.px-md-5.align-items-center
-            .col-md-8.mb-4.mb-md-0
+          .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
+            .col-12.col-lg-5.mb-4.mb-lg-0
               h4 Mixtos.
               p Se presentan en momentos puntuales y no forman parte de la operación continua.
-            .col-md-4
+            .col-12.col-lg-5.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema2/img23.png', alt='Texto que describa la imagen')
         
         .py-4.py-md-5(titulo="Oportunidad" :icono="require('@/assets/curso/temas/tema2/img18.svg')")
-          .row.py-3.px-4.px-md-5.align-items-center
-            .col-md-8.mb-4.mb-md-0
+          .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
+            .col-12.col-lg-5.mb-4.mb-lg-0
               h4 Oportunidad.
               p No pueden asignarse a un producto específico, pero son necesarios para la operación (mantenimiento, supervisión, servicios generales).
-            .col-md-4
+            .col-12.col-lg-5.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema2/img24.png', alt='Texto que describa la imagen')
         
@@ -261,7 +262,7 @@
 
     //- Titulo
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_2_2 2.2 Técnicas de estimación. 
+      h2#t_2_2 2.2 Técnicas de estimación
 
     //- banner con tarjeta
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in")
@@ -285,46 +286,46 @@
     TabsA.color-terciario.mb-5(data-aos="fade-right")
       .tarjeta.p-4(titulo="Proyecciones históricas")
         .row.mx-auto.align-items-center.justify-content-center.h-100
-          .col-12.col-lg-5.order-2.order-lg-1
+          .col-12.col-xl-5.mb-4.mb-xl-0
             h4 Proyecciones históricas.
             p.mb-0 Basadas en el comportamiento de ventas pasadas ajustadas por inflación, estacionalidad o crecimiento esperado.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0
+          .col-12.col-xl-5.mb-4.mb-xl-0
             figure
               img(src='@/assets/curso/temas/tema2/img34.png', alt='Imagen Decorativa').mx-auto
       
       .tarjeta.p-4(titulo="Método de tendencia o series de tiempo")
         .row.mx-auto.align-items-center.justify-content-center.h-100
-          .col-12.col-lg-5.order-2.order-lg-1
+          .col-12.col-xl-5.mb-4.mb-xl-0
             h4 Método de tendencia o series de tiempo.
             p.mb-0 Usa datos históricos para identificar patrones y proyectar ventas futuras.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0
+          .col-12.col-xl-5.mb-4.mb-xl-0
             figure
               img(src='@/assets/curso/temas/tema2/img33.png', alt='Imagen Decorativa').mx-auto
       
       .tarjeta.p-4(titulo="Método de participación en el mercado")
         .row.mx-auto.align-items-center.justify-content-center.h-100
-          .col-12.col-lg-5.order-2.order-lg-1
+          .col-12.col-xl-5.mb-4.mb-xl-0
             h4 Método de participación en el mercado.
             p.mb-0 Estima ingresos a partir de la cuota de mercado proyectada frente a la demanda total.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0
+          .col-12.col-xl-5.mb-4.mb-xl-0
             figure
               img(src='@/assets/curso/temas/tema2/img35.png', alt='Imagen Decorativa').mx-auto
       
       .tarjeta.p-4(titulo="Encuestas y estudios de mercado.")
         .row.mx-auto.align-items-center.justify-content-center.h-100
-          .col-12.col-lg-5.order-2.order-lg-1
+          .col-12.col-xl-5.mb-4.mb-xl-0
             h4 Encuestas y estudios de mercado.
             p.mb-0 Recoge información directa de consumidores y competidores para proyectar ingresos realistas.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0
+          .col-12.col-xl-5.mb-4.mb-xl-0
             figure
               img(src='@/assets/curso/temas/tema2/img36.png', alt='Imagen Decorativa').mx-auto
       
       .tarjeta.p-4(titulo="Escenarios de proyección")
         .row.mx-auto.align-items-center.justify-content-center.h-100
-          .col-12.col-lg-5.order-2.order-lg-1
+          .col-12.col-xl-5.mb-4.mb-xl-0
             h4 Escenarios de proyección
             p.mb-0 Construcción de escenarios optimistas, pesimistas y realistas para prever ingresos en distintos contextos.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0
+          .col-12.col-xl-5.mb-4.mb-xl-0
             figure
               img(src='@/assets/curso/temas/tema2/img37.png', alt='Imagen Decorativa').mx-auto
 
@@ -344,7 +345,7 @@
           .col-12.col-lg-4.mb-3.mb-md-0(data-aos="fade-left")
             figure
               img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema2/img38.png', alt='imagen decorativa')
-          .col-12.col-lg-8
+          .col-12.col-lg-8.custom-slider
             SlyderF(columnas="col-lg-6 col-xl-6")
               .tarjeta.color-gris.p-4
                 .row.justify-content-center.mb-3

@@ -94,34 +94,34 @@
     TabsA.color-terciario.mb-5(data-aos="fade-right")
       .tarjeta.p-4(titulo="Series de tiempo.")
         .row.mx-auto.align-items-center.justify-content-center
-          .col-12.col-lg-5.order-2.order-lg-1
+          .col-12.col-xl-7.mb-4.mb-xl-0
             h4 Series de tiempo.
             p.mb-0 Analizan datos históricos (ventas, costos, utilidades) para identificar tendencias, estacionalidad o ciclos que puedan proyectarse hacia el futuro.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0
+          .col-12.col-xl-5.mb-4.mb-xl-0
             figure
               img(src='@/assets/curso/temas/tema1/img08.png', alt='Imagen Decorativa').mx-auto
       .tarjeta.p-4(titulo="Modelos de regresión.")
         .row.mx-auto.align-items-center.justify-content-center
-          .col-12.col-lg-5.order-2.order-lg-1
+          .col-12.col-xl-7.mb-4.mb-xl-0
             h4 Modelos de regresión.
             p.mb-0 Relacionan variables dependientes (por ejemplo, ventas) con factores explicativos (como precio, ingreso del consumidor, publicidad) para estimar su comportamiento futuro.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0
+          .col-12.col-xl-5.mb-4.mb-xl-0
             figure
               img(src='@/assets/curso/temas/tema1/img09.png', alt='Imagen Decorativa').mx-auto
       .tarjeta.p-4(titulo="Modelos econométricos.")
         .row.mx-auto.align-items-center.justify-content-center
-          .col-12.col-lg-5.order-2.order-lg-1
+          .col-12.col-xl-7.mb-4.mb-xl-0
             h4 Modelos econométricos.
             p.mb-0 Incorporan varias ecuaciones que explican de manera integral el comportamiento de diferentes variables económicas y financieras.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0
+          .col-12.col-xl-5.mb-4.mb-xl-0
             figure
               img(src='@/assets/curso/temas/tema1/img10.png', alt='Imagen Decorativa').mx-auto
       .tarjeta.p-4(titulo="Promedios móviles y suavización exponencial.")
         .row.mx-auto.align-items-center.justify-content-center
-          .col-12.col-lg-5.order-2.order-lg-1
+          .col-12.col-xl-7.mb-4.mb-xl-0
             h4 Promedios móviles y suavización exponencial.
             p.mb-0 Métodos estadísticos simples para suavizar fluctuaciones y predecir valores futuros a corto plazo.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0
+          .col-12.col-xl-5.mb-4.mb-xl-0
             figure
               img(src='@/assets/curso/temas/tema1/img11.png', alt='Imagen Decorativa').mx-auto
        
@@ -147,8 +147,7 @@
         //- Figura
         .titulo-sexto.mb-4
           h5 Figura 1. 
-            span 
-              i Fijación de factores y proyecciones 
+            span Fijación de factores y proyecciones 
         figure.mb-4
           figure.mb-3
             img(src='@/assets/curso/temas/tema1/img13.svg', alt='La figura presenta las características de la analítica web. Permite identificar tendencias de comportamiento de los usuarios. Facilita la medición de la efectividad de estrategias digitales. Proporciona datos para la optimización de contenidos. Ayuda a mejorar la experiencia del usuario en plataformas digitales.').mx-auto.d-none.d-md-block

@@ -50,7 +50,7 @@ export default {
           },
           {
             numero: '1.2',
-            titulo: '1.2.	Fijación de factores y proyecciones',
+            titulo: 'Fijación de factores y proyecciones',
             hash: 't_1_2',
           },
         ],
@@ -124,12 +124,12 @@ export default {
           {
             numero: '5.1',
             titulo: 'Estructura',
-            hash: 't_4_1',
+            hash: 't_5_1',
           },
           {
             numero: '5.2',
             titulo: '5.2.	Técnicas de redacción y visualización de datos',
-            hash: 't_4_2',
+            hash: 't_5_2',
           },
         ],
       },
@@ -232,7 +232,7 @@ export default {
     {
       termino: 'Excel',
       significado:
-        'software de hoja de cálculo ampliamente usado para presupuestación, análisis y presentación de datos.',
+        '<em>software</em> de hoja de cálculo ampliamente usado para presupuestación, análisis y presentación de datos.',
     },
     {
       termino: 'Informe presupuestal',

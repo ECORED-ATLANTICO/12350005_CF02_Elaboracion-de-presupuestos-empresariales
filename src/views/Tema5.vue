@@ -17,11 +17,11 @@
           .container
             p Es el proceso de estructurar, organizar y comunicar de manera clara, precisa y comprensible la información resultante del presupuesto elaborado. Esto no solo se limita a mostrar cifras de ingresos, costos y gastos, sino que también integra análisis comparativos, proyecciones, desviaciones y recomendaciones estratégicas, con el fin de facilitar la toma de decisiones por parte de los directivos y demás actores de la empresa. 
             .row.align-items-center(data-aos="fade-left")
-              .col-12.col-md-12.col-lg-10.mb-4.mb-lg-0
+              .col-12.col-md-12.col-lg-9.mb-4.mb-lg-0
                 p.mb-0 Un informe presupuestal bien diseñado debe contener información verificada, representada tanto en formatos numéricos (tablas, balances, indicadores) como en recursos visuales (gráficos, diagramas, 
                   i dashboards)
                   | , lo que permite interpretar tendencias y escenarios financieros de forma ágil. Además, la presentación debe adaptarse al público objetivo, garantizando que el lenguaje, los indicadores y las conclusiones respondan a las necesidades de cada nivel organizacional.
-              .col-12.col-md-12.col-lg-2.mb-4.mb-lg-0
+              .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema5/img02.svg', alt='imagen decorativa')
 
@@ -47,7 +47,7 @@
         .col-12.col-lg-4.order-2.order-lg-1.mb-4.mb-lg-0(data-aos="fade-left")
           figure
             img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema5/img04.png', alt='imagen decorativa')
-        .col-12.col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0
+        .col-12.col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0.custom-slider
           SlyderF(columnas="col-lg-6 col-xl-6")
             .tarjeta.color-gris.p-4
               .row.justify-content-center.mb-3

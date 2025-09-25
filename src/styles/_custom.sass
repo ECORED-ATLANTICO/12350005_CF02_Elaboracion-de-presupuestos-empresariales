@@ -53,7 +53,7 @@ body
 .bg-color-primario-p20
   background-color: #A6EAE8
 .bg-color-primario-p10
-  background-color: #A6EAE8
+  background-color: #D2F5F4
 .bg-color-primario-p5
   background-color: #E8FAF9
   .slyder-f
@@ -108,6 +108,12 @@ body
 
 .banner-principal__row .banner-principal__img
   width: auto
+  padding-top: 0 !important
+  padding-bottom: 0 !important
+  align-self: end
+  & img
+    position: relative
+
   @media (min-width: 768px) and (max-width: 1280px)
     width: 400px
 
@@ -119,12 +125,6 @@ body
 
 figcaption
   font-weight: normal
-
-.banner-principal__img
-  padding-top: 0 !important
-  padding-bottom: 0 !important
-  & img
-    position: relative
 
 // Contenedor con curvas arriba izq y abajo derecha
 .curvas
@@ -248,6 +248,8 @@ figcaption
     background-color: #FDB641
     opacity: 0.35
     border: none
+    @media (max-width: 576px)
+      margin: 0 3px
     &--active
       opacity: 1
   &__tipo-b
@@ -284,17 +286,18 @@ figcaption
         width: 50%
 
 // tablas
-table td
-        text-align: start !important
-th, td, table thead th, .tabla-a th
-  border: 2px solid #B5B5B5
-table
-  table-layout: auto
-.tabla-a thead
-  background-color: #F3F3F3
-  border-color: $color-acento-contenido
-.tabla-a tr:nth-child(even)
-  background-color: #F3F3F3
+.tabla-a
+  table
+    table-layout: auto
+    th, td
+      border: 2px solid #B5B5B5
+    td
+      text-align: start !important
+    thead
+      background-color: #F3F3F3
+      border-color: $color-acento-contenido
+    tr:nth-child(even)
+      background-color: #F3F3F3
 
 table
   caption
@@ -318,3 +321,67 @@ table
     img
       position: relative
       z-index: 5
+
+// factores-slider custom-slider
+.custom-slider
+  &__icon
+    max-height: 93px
+  .h-95
+    height: 95% !important
+  .slyder-f
+    align-items: center
+    justify-content: center
+    gap: 0
+  .slyder-f__btn
+    background-color: $color-acento-botones
+    color: $black !important
+    height: 42px
+    width: 42px
+    min-width: 42px
+    border-radius: 50%
+    padding: 0 !important
+    transition: transform 0.3s
+    z-index: 100
+
+    &:hover
+      transform: scale(1.1)
+    .fa-chevron-left, .fa-chevron-right
+      font-size: 1rem
+    &.ps-3
+      margin-left: 7px
+      @media (max-width: 1024px)
+        margin-left: 7px
+    &.pe-3
+      margin-right: 7px
+      @media (max-width: 1024px)
+        margin-right: 7px
+  &--color-fondo-1
+    &__icon
+      max-height: 93px
+    .h-95
+      height: 95% !important
+    .slyder-f
+      align-items: center
+      justify-content: center
+      gap: 0
+    .slyder-f__btn
+      background-color: $color-acento-botones !important
+      color: $white !important
+      height: 42px
+      width: 42px
+      min-width: 42px
+      border-radius: 50%
+      padding: 0 !important
+      transition: transform 0.3s
+      &:hover
+        transform: scale(1.1)
+      .fa-chevron-left, .fa-chevron-right
+        font-size: 1rem
+      &.ps-3
+        margin-left: 7px
+        @media (max-width: 1024px)
+          margin-left: 7px
+      &.pe-3
+        margin-right: 7px
+        @media (max-width: 1024px)
+          margin-right: 7px

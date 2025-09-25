@@ -21,7 +21,7 @@
 
     //- Titulo
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_3_1 3.1 Componentes.
+      h2#t_3_1 3.1 Componentes
 
 
     //- Col8 y Col4
@@ -103,8 +103,7 @@
       .col-12.col-lg-10.mx-auto
         .titulo-sexto
           h5 Tabla 1. 
-          span 
-            i Unidades de Medida
+          span Unidades de Medida
 
         .tabla-a
           table.w-100
@@ -161,7 +160,7 @@
 
     //- Titulo
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_3_3 3.3 Parámetros técnicos.
+      h2#t_3_3 3.3 Parámetros técnicos
 
     p.mb-5 Los parámetros técnicos en la elaboración de presupuestos empresariales son aquellos lineamientos que determinan cómo se calculan, registran y controlan las variables presupuestales, con el fin de obtener proyecciones confiables y comparables. Estos se aplican en distintas etapas del proceso presupuestal y abarcan:
 
@@ -169,8 +168,7 @@
       .col-12.col-lg-10.mx-auto
         .titulo-sexto
           h5 Tabla 2. 
-            span 
-              i Tipos de parámetros técnicos.
+            span Tipos de parámetros técnicos.
         .tabla-a
           table.w-100
             caption 
