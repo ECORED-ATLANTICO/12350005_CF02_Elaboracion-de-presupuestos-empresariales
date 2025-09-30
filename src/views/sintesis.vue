@@ -6,11 +6,9 @@
     .container.mb-5
       .row.align-items-center(data-aos="fade-left")
         .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
-          p El componente “Elaboración y presentación del presupuesto empresarial” busca desarrollar en los aprendices las competencias necesarias para planear, estructurar y comunicar de manera efectiva los presupuestos dentro de una organización, como herramienta clave para la gestión financiera y la toma de decisiones estratégicas.
-          p En primer lugar, se abordan los pronósticos financieros, los cuales constituyen la base para la elaboración del presupuesto, ya que permiten anticipar escenarios económicos y proyectar el desempeño de la empresa. Posteriormente, se analizan los ingresos, costos y gastos, diferenciando sus tipos (fijos, variables, directos, indirectos, operativos y no operativos)
-          p El componente también profundiza en las variables presupuestales, las unidades de medida y los parámetros técnicos que aseguran coherencia, exactitud y comparabilidad en la información presupuestal.
-          p Lo correspondiente al apoyo tecnológico, se promueve el uso de herramientas TIC que facilitan la construcción y el análisis de presupuestos. Entre ellas, la hoja de cálculo se convierte en un recurso esencial para organizar datos, aplicar fórmulas y automatizar operaciones
-          p Finalmente, se orienta la correcta presentación de informes presupuestales, como producto final del proceso. Para ello, se define la estructura que deben tener dichos reportes y se aplican técnicas de redacción y visualización de datos
+          p El componente formativo “Elaboración y presentación del presupuesto empresarial” permite al aprendiz aplicar técnicas de estimación, proyección y estructuración de presupuestos organizacionales con base en información histórica y criterios técnicos. A través del análisis de ingresos, egresos y resultados esperados, se construyen presupuestos operativos, financieros y de inversión que responden a los objetivos de diferentes tipos de empresa.
+          p Se fortalece el uso de herramientas tecnológicas como Excel para organizar la información y estructurar formatos presupuestales, así como la capacidad de redactar e interpretar informes financieros de manera clara, coherente y profesional.
+          p Así mismo relaciona además la manera de presentar los informes, lo cual es de gran relevancia para el proceso formativo; teniendo en cuenta que es la forma de como presentar, analizar y tomar decisiones con respecto a la información presentada.
         .col-12.col-md-12.col-lg-4.mb-4.mb-lg-0
           figure
             img.mb-4.mb-lg-0(src='@/assets/curso/img01.png', alt='imagen decorativa')

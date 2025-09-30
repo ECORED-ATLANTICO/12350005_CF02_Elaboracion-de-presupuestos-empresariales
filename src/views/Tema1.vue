@@ -21,7 +21,7 @@
    
     //- Titulo
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 1.1 Métodos de calculo
+      h2#t_1_1 1.1 Métodos de cálculo
     
     p.mb-5 Existen varios enfoques para realizar pronósticos financieros, dependiendo del horizonte temporal, la disponibilidad de información y la naturaleza del negocio:
     
@@ -29,7 +29,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
-          h3.subtitle.position-relative a. Métodos cualitativos
+          h3.subtitle.position-relative a. Métodos cualitativos.
             img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
 
 

@@ -35,7 +35,7 @@
               figure
                 img(src='@/assets/curso/temas/tema4/img07.png', alt='Texto que describa la imagen')
               
-        .py-4.py-md-5(titulo="Software especializados en planeación y presupuestos." :icono="require('@/assets/curso/temas/tema4/img03.svg')")
+        .py-4.py-md-5(titulo="<em>Software</em> especializados en planeación y presupuestos." :icono="require('@/assets/curso/temas/tema4/img03.svg')")
           .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
             .col-12.col-lg-5.mb-4.mb-lg-0
               h4 
@@ -142,7 +142,7 @@
           table.w-100
             caption 
               b Fuente: 
-              | SENA, 2025.
+              | Microsoft Excel, 2025.
             thead
               tr
                 th Nombre
@@ -183,37 +183,37 @@
               | SENA, 2025.
             thead
               tr
-                th Tipo de grafico 
+                th Tipo de gráfico 
                 th Descripción
             tbody
               tr
                 td 
                   p 
-                    b Gráfico de columnas/barras 
+                    b Gráfico de columnas/barras.
                 td Compara ingresos, costos y gastos por periodos.
 
               tr
                 td
                   p
-                    b Gráfico de líneas 
+                    b Gráfico de líneas.
                 td Analiza tendencias en ventas o gastos a lo largo del tiempo.
 
               tr
                 td
                   p
-                    b Gráfico circular (pastel) 
-                td Muestra la distribución porcentual de los gastos o ingresos
+                    b Gráfico circular (pastel). 
+                td Muestra la distribución porcentual de los gastos o ingresos.
                  
               tr
                 td 
                   p
-                    b Gráfico combinado
+                    b Gráfico combinado.
                 td Compara ingresos y egresos en una misma visualización.
 
               tr
                 td 
                   p
-                    b Tablas y gráficos dinámicos 
+                    b Tablas y gráficos dinámicos.
                 td Resume y analiza grandes volúmenes de datos de manera interactiva.
 
 

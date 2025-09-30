@@ -359,7 +359,7 @@
                   .col-6.col-lg-8
                     img(src='@/assets/curso/temas/tema2/img40.svg' alt='AvatarTop')
                 h5.text-center Costeo estándar.
-                p.text-center Se establecen costos predeterminados para materiales, mano de obra y gastos indirectos, con base en estudios técnico
+                p.text-center Se establecen costos predeterminados para materiales, mano de obra y gastos indirectos, con base en estudios técnicos.
               
               .tarjeta.color-gris.p-4
                 .row.justify-content-center.mb-3
@@ -422,7 +422,7 @@
             .row.align-items-center.justify-content-center
               .col-md-8.mb-4.mb-md-0.order-2.order-lg-1
                 h3 Análisis incremental.
-                p Parte de los gastos históricos y les aplica un ajuste por inflación o crecimiento
+                p Parte de los gastos históricos y les aplica un ajuste por inflación o crecimiento.
               .col-md-4.mb-4.mb-md-0.order-1.order-lg-2
                 figure
                   img(src='@/assets/curso/temas/tema2/img47.svg', alt='Texto que describa la imagen')

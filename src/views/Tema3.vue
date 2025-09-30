@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Ingresos y egresos
+      h1 Variables presupuestales
 
 
     //- banner con tarjeta
@@ -77,7 +77,8 @@
                     | Factores que permiten evaluar el cumplimiento del presupuesto.
                   ul.bullets
                     li Metas financieras: objetivos de rentabilidad, liquidez y crecimiento.
-                    li Indicadores de desempeño: métricas para comparar lo proyectado con lo ejecutado. Escenarios de simulación: análisis optimista, pesimista y realista.
+                    li Indicadores de desempeño: métricas para comparar lo proyectado con lo ejecutado. 
+                    li Escenarios de simulación: análisis optimista, pesimista y realista.
                     li Mecanismos de retroalimentación: ajustes a proyecciones y corrección de desviaciones.
                 .col-12.col-md-6.col-lg-4.mb-3 
                   figure
@@ -103,7 +104,7 @@
       .col-12.col-lg-10.mx-auto
         .titulo-sexto
           h5 Tabla 1. 
-          span Unidades de Medida
+          span Unidades de medida
 
         .tabla-a
           table.w-100
