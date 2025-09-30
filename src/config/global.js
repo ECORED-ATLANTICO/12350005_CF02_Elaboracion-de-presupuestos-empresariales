@@ -128,7 +128,7 @@ export default {
           },
           {
             numero: '5.2',
-            titulo: '5.2.	Técnicas de redacción y visualización de datos',
+            titulo: 'Técnicas de redacción y visualización de datos',
             hash: 't_5_2',
           },
         ],
