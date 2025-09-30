@@ -129,7 +129,7 @@
 
     //- Titulo
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_2 1.2. Fijación de factores y proyecciones
+      h2#t_1_2 1.2 Fijación de factores y proyecciones
 
     //- Col8 y Col4
     .container.mb-5
