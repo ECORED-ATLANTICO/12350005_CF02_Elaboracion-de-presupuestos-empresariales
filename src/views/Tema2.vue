@@ -71,7 +71,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
-          h3.subtitle.position-relative Tipos de Ingresos.
+          h3.subtitle.position-relative Tipos de Ingresos
             img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
 
     //- Col8 (Slider) y Col4
@@ -109,7 +109,7 @@
                     .col-6.col-lg-8
                       img(src='@/assets/curso/temas/tema2/img11.svg' alt='AvatarTop')
                   h5.text-center Recurrentes.
-                  p.text-center Se perciben de manera periódica y estable (suscripciones, contratos de largo plazo)
+                  p.text-center Se perciben de manera periódica y estable (suscripciones, contratos de largo plazo).
                 
                 .tarjeta.color-gris.p-4
                   .row.justify-content-center.mb-3
@@ -123,7 +123,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
-          h3.subtitle.position-relative Tipos de costos.
+          h3.subtitle.position-relative Tipos de costos
             img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
 
 
@@ -188,7 +188,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
-          h3.subtitle.position-relative Tipos de gastos.
+          h3.subtitle.position-relative Tipos de gastos
             img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
 
 
@@ -278,7 +278,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
-          h3.subtitle.position-relative Técnicas de estimación de ingreso.
+          h3.subtitle.position-relative Técnicas de estimación de ingreso
             img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
 
 
@@ -334,7 +334,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
-          h3.subtitle.position-relative Técnicas de estimación de costos.
+          h3.subtitle.position-relative Técnicas de estimación de costos
             img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
 
 
@@ -395,7 +395,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
-          h3.subtitle.position-relative Técnicas de estimación de gastos.
+          h3.subtitle.position-relative Técnicas de estimación de gastos
             img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
 
 

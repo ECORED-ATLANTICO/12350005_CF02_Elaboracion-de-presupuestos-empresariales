@@ -115,7 +115,7 @@
                 th Unidades de medida
             tbody
               tr
-                td Ingresos.
+                td Ingresos
                 td 
                   ul.bullets 
                     li Moneda local o extranjera (COP, USD, EUR). 
@@ -123,7 +123,7 @@
                     li Indicadores financieros: márgenes (%) o ingresos por cliente.
 
               tr
-                td Costos.
+                td Costos
                 td 
                   ul.bullets 
                     li Pesos/dólares por periodo o por unidad producida.
@@ -132,7 +132,7 @@
                     li Valor monetario del costo de oportunidad.
 
               tr
-                td Gastos.
+                td Gastos
                 td 
                   ul.bullets 
                     li Pesos por mes, trimestre o año. 
@@ -140,7 +140,7 @@
                     li Porcentajes sobre ventas (ej. publicidad, distribución).
  
               tr
-                td Variables externas.
+                td Variables externas
                 td 
                   ul.bullets 
                     li Inflación (% anual)
@@ -149,7 +149,7 @@
                     li Crecimiento del mercado (%)
  
               tr
-                td Gestión y control.
+                td Gestión y control
                 td 
                   ul.bullets 
                     li Cumplimiento de metas (% de ejecución).
@@ -169,7 +169,7 @@
       .col-12.col-lg-10.mx-auto
         .titulo-sexto
           h5 Tabla 2. 
-            span Tipos de parámetros técnicos.
+            span Tipos de parámetros técnicos
         .tabla-a
           table.w-100
             caption 
@@ -181,7 +181,7 @@
                 th Tipo de Parámetro
             tbody
               tr
-                td Unidades de medida.
+                td Unidades de medida
                 td 
                   p.mb-2 Define la forma de cuantificar ingresos, costos y gastos.
                   ul.bullets 
@@ -190,7 +190,7 @@
                     li Porcentuales: márgenes, tasas de interés, inflación.
 
               tr
-                td Horizonte temporal.
+                td Horizonte temporal
                 td 
                   p.mb-2 Determina el período de análisis y planificación del presupuesto.
                   ul.bullets 
@@ -199,7 +199,7 @@
                     li Largo plazo: superior a un año, usualmente estratégico.
 
               tr
-                td Supuestos macroeconómicos y financieros.
+                td Supuestos macroeconómicos y financieros
                 td 
                   p.mb-2 Son parámetros que contextualizan el presupuesto frente al entorno externo.
                   ul.bullets 
@@ -208,7 +208,7 @@
                     li Tipo de cambio esperado (COP/USD).
                     li Crecimiento económico del sector (%)
               tr
-                td Criterios de clasificación de los rubros.
+                td Criterios de clasificación de los rubros
                 td 
                   p.mb-2 Son parámetros que contextualizan el presupuesto frente al entorno externo.
                   ul.bullets 
@@ -217,7 +217,7 @@
                     li Gastos: administrativos, financieros, de ventas, extraordinario
 
               tr
-                td Métodos de estimación.
+                td Métodos de estimación
                 td 
                   p.mb-2 Se refieren a las técnicas utilizadas para proyectar ingresos, costos y gastos.
                   ul.bullets 
@@ -227,7 +227,7 @@
                     li Método incremental.
 
               tr
-                td Establece cómo se mide la ejecución del presupuesto.
+                td Establece cómo se mide la ejecución del presupuesto
                 td 
                   p.mb-2 Define la forma de cuantificar ingresos, costos y gastos.
                   ul.bullets 

@@ -189,31 +189,31 @@
               tr
                 td 
                   p 
-                    b Gráfico de columnas/barras.
+                    b Gráfico de columnas/barras
                 td Compara ingresos, costos y gastos por periodos.
 
               tr
                 td
                   p
-                    b Gráfico de líneas.
+                    b Gráfico de líneas
                 td Analiza tendencias en ventas o gastos a lo largo del tiempo.
 
               tr
                 td
                   p
-                    b Gráfico circular (pastel). 
+                    b Gráfico circular (pastel)
                 td Muestra la distribución porcentual de los gastos o ingresos.
                  
               tr
                 td 
                   p
-                    b Gráfico combinado.
+                    b Gráfico combinado
                 td Compara ingresos y egresos en una misma visualización.
 
               tr
                 td 
                   p
-                    b Tablas y gráficos dinámicos.
+                    b Tablas y gráficos dinámicos
                 td Resume y analiza grandes volúmenes de datos de manera interactiva.
 
 

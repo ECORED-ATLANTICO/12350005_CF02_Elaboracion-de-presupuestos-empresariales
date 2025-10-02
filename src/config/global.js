@@ -166,7 +166,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA2_12350005_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -181,13 +181,6 @@ export default {
     ],
   },
   complementario: [
-    {
-      tema: 'Caso práctico: presupuesto empresarial simulado',
-      referencia:
-        'M&C Consultores. (2024). Anexo 1. CINE FUTURO 2023–2024 [Archivo de Excel]. Elaboración de presupuestos empresariales.',
-      tipo: 'Archivo Excel',
-      link: 'Anexo 1 CINE FUTURO',
-    },
     {
       tema: '¿Cómo calcular un presupuesto empresarial?',
       referencia:

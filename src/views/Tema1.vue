@@ -29,7 +29,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
-          h3.subtitle.position-relative a. Métodos cualitativos.
+          h3.subtitle.position-relative a. Métodos cualitativos
             img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
 
 
@@ -86,7 +86,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
-          h3.subtitle.position-relative b. Métodos cuantitativos.
+          h3.subtitle.position-relative b. Métodos cuantitativos
             img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
 
   
@@ -150,8 +150,8 @@
             span Fijación de factores y proyecciones 
         figure.mb-4
           figure.mb-3
-            img(src='@/assets/curso/temas/tema1/img13.svg', alt='La figura presenta las características de la analítica web. Permite identificar tendencias de comportamiento de los usuarios. Facilita la medición de la efectividad de estrategias digitales. Proporciona datos para la optimización de contenidos. Ayuda a mejorar la experiencia del usuario en plataformas digitales.').mx-auto.d-none.d-md-block
-            img(src='@/assets/curso/temas/tema1/img13m.svg', alt='La figura presenta las características de la analítica web. Permite identificar tendencias de comportamiento de los usuarios. Facilita la medición de la efectividad de estrategias digitales. Proporciona datos para la optimización de contenidos. Ayuda a mejorar la experiencia del usuario en plataformas digitales.').mx-auto.d-block.d-md-none
+            img(src='@/assets/curso/temas/tema1/img13.svg', alt='La figura muestra la fijación de factores y proyecciones que inciden en el comportamiento financiero de las organizaciones. Identificación de factores internos, identificación de factores externos, fijación de los factores claves, elaboración de proyecciones, integración en el presupuesto, control y retroalimentación.').mx-auto.d-none.d-md-block
+            img(src='@/assets/curso/temas/tema1/img13m.svg', alt='La figura muestra la fijación de factores y proyecciones que inciden en el comportamiento financiero de las organizaciones. Identificación de factores internos, identificación de factores externos, fijación de los factores claves, elaboración de proyecciones, integración en el presupuesto, control y retroalimentación.').mx-auto.d-block.d-md-none
 
           figcaption 
             b Fuente: 
