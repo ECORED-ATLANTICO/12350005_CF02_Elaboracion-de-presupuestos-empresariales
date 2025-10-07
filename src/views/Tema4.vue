@@ -14,7 +14,7 @@
           img(src='@/assets/curso/temas/tema4/img01.png', alt='Imagen decorativa')
           div.texto-tarjeta.bg-gray-gradient
             .px-4
-              p.mb-0 Las herramientas TIC (tecnologías de la información y la comunicación) son aplicaciones, plataformas y recursos digitales diseñados para optimizar la recolección, procesamiento, análisis y presentación de la información financiera. Estas herramientas permiten automatizar cálculos, simular escenarios, generar reportes en tiempo real y facilitar la toma de decisiones estratégicas, garantizando mayor precisión, eficiencia y transparencia en la gestión presupuestal.
+              p.mb-0 Las herramientas TIC (Tecnologías de la Información y la Comunicación) son aplicaciones, plataformas y recursos digitales diseñados para optimizar la recolección, procesamiento, análisis y presentación de la información financiera. Estas herramientas permiten automatizar cálculos, simular escenarios, generar reportes en tiempo real y facilitar la toma de decisiones estratégicas, garantizando mayor precisión, eficiencia y transparencia en la gestión presupuestal.
 
 
     .container.mb-5
@@ -30,7 +30,7 @@
           .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
             .col-12.col-lg-5.mb-4.mb-lg-0
               h4 Hojas de cálculo avanzadas.
-              p Las más usadas están: Microsoft Excel, Google Sheets útiles para para cálculos y proyecciones.
+              p Las más usadas están: Microsoft Excel, Google Sheets útiles para cálculos y proyecciones.
             .col-12.col-lg-5.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema4/img07.png', alt='Texto que describa la imagen')
@@ -61,7 +61,7 @@
           .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
             .col-12.col-lg-5.mb-4.mb-lg-0
               h4 Sistemas de inteligencia de negocios. 
-                i (business intelligence).
+                i (Business Intelligence).
               p Generan tableros de control y análisis de indicadores presupuestales.
             .col-12.col-lg-5.mb-4.mb-lg-0
               figure

@@ -182,16 +182,16 @@ export default {
   },
   complementario: [
     {
-      tema: '¿Cómo calcular un presupuesto empresarial?',
+      tema: 'Pronósticos financieros',
       referencia:
         '¿Cómo Calcular un Presupuesto Empresarial? (2024). [Video]. YouTube. https://youtu.be/UqzDPBqDW6E',
       tipo: 'Video',
       link: 'https://youtu.be/UqzDPBqDW6E',
     },
     {
-      tema: 'Presupuestos económicos y financieros (tesorería)',
+      tema: 'Presentación de informes',
       referencia:
-        'Qué es un presupuesto de tesorería? (2024). [Video]. YouTube. https://youtu.be/kUtTJ11iaMY',
+        '¿Qué es un presupuesto de tesorería? (2024). [Video]. YouTube. https://youtu.be/kUtTJ11iaMY',
       tipo: 'Video',
       link: 'https://youtu.be/kUtTJ11iaMY',
     },
@@ -321,7 +321,7 @@ export default {
         {
           nombre: 'Gustavo Meriño',
           cargo: 'Experto temático',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Jair Coll Gallardo',

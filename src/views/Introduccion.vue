@@ -16,7 +16,7 @@
           figure
             img.mb-4.mb-lg-0(src='@/assets/curso/intro/img01.png', alt='imagen decorativa')
         .col-lg-8
-          p El componente formativo “Elaboración y presentación del presupuesto empresarial” tiene como propósito fortalecer las competencias técnicas necesarias para construir, proyectar y comunicar presupuestos organizacionales de manera precisa y fundamentada. A partir del análisis de información histórica, se desarrollan habilidades para estimar ingresos, egresos y resultados esperados, utilizando criterios técnicos y métodos de proyección ajustados a las necesidades de distintos tipos de empresa.
+          p El componente formativo Elaboración y presentación del presupuesto empresarial tiene como propósito fortalecer las competencias técnicas necesarias para construir, proyectar y comunicar presupuestos organizacionales de manera precisa y fundamentada. A partir del análisis de información histórica, se desarrollan habilidades para estimar ingresos, egresos y resultados esperados, utilizando criterios técnicos y métodos de proyección ajustados a las necesidades de distintos tipos de empresa.
           .tarjeta.bg-color-primario-p10.p-4.mb-4(data-aos="fade-left")
             .container
               .row.justify-content-center.align-items-center

@@ -62,7 +62,8 @@
                   ul.bullets
                     li Inflación: variación en los precios de bienes y servicios.
                     li Tasas de interés: costo del financiamiento o rendimiento de las inversiones.
-                    li Tipo de cambio: impacto en operaciones internacionales o importación de insumos. Políticas fiscales y tributarias: impuestos, incentivos o regulaciones estatales.
+                    li Tipo de cambio: impacto en operaciones internacionales o importación de insumos. 
+                    li Políticas fiscales y tributarias: impuestos, incentivos o regulaciones estatales.
                     li Comportamiento del mercado: oferta, demanda, tendencias de consumo.
                     li Competencia: influencia en precios, participación de mercado y estrategias.
                 .col-12.col-md-6.col-lg-4.mb-3 
@@ -210,7 +211,7 @@
               tr
                 td Criterios de clasificación de los rubros
                 td 
-                  p.mb-2 Son parámetros que contextualizan el presupuesto frente al entorno externo.
+                  p.mb-2 Permiten ordenar las variables presupuestales para dar claridad en su interpretación.
                   ul.bullets 
                     li Ingresos: operacionales y no operacionales.
                     li Costos: fijos, variables, directos, indirectos.
@@ -227,7 +228,7 @@
                     li Método incremental.
 
               tr
-                td Establece cómo se mide la ejecución del presupuesto
+                td Indicadores de control y Seguimiento
                 td 
                   p.mb-2 Define la forma de cuantificar ingresos, costos y gastos.
                   ul.bullets 

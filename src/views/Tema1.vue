@@ -80,7 +80,7 @@
                         figure
                           img(src='@/assets/curso/temas/tema1/img06.svg', alt='Imagen Decorativa').mx-auto
 
-    p.mb-5 Estos métodos se usan cuando no existen suficiente información histórica o cuando el entorno es muy incierto.
+    p.mb-5 Estos métodos se usan cuando no existe suficiente información histórica o cuando el entorno es muy incierto.
 
     //- Subtitulo
     .row.justify-content-center.align-items-center.mb-4

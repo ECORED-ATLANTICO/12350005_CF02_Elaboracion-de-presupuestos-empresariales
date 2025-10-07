@@ -50,7 +50,7 @@ export default {
         {
           id: 2,
           texto:
-            'Las proyecciones financieras permiten anticipar resultados económicos futuros',
+            'Las proyecciones financieras permiten anticipar resultados económicos futuros.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -71,7 +71,7 @@ export default {
         {
           id: 3,
           texto:
-            'Excel no es una herramienta válida para elaborar presupuestos empresariales',
+            'Excel no es una herramienta válida para elaborar presupuestos empresariales.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -92,7 +92,7 @@ export default {
         {
           id: 4,
           texto:
-            'El análisis histórico de ingresos y egresos permite mejorar la estimación de partidas futuras',
+            'El análisis histórico de ingresos y egresos permite mejorar la estimación de partidas futuras.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -217,7 +217,7 @@ export default {
         {
           id: 10,
           texto:
-            'Todos los tipos de organización usan el mismo tipo de presupuesto',
+            'Todos los tipos de organización usan el mismo tipo de presupuesto.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -322,7 +322,7 @@ export default {
         {
           id: 15,
           texto:
-            'Los informes presupuestales no necesitan ser sustentados con datos históricos',
+            'Los informes presupuestales no necesitan ser sustentados con datos históricos.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -385,7 +385,7 @@ export default {
         {
           id: 18,
           texto:
-            'El uso de herramientas TIC contribuye a una mejor visualización de resultados',
+            'El uso de herramientas TIC contribuye a una mejor visualización de resultados.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
