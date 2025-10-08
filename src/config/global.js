@@ -311,7 +311,7 @@ export default {
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -321,7 +321,7 @@ export default {
         {
           nombre: 'Gustavo Meriño',
           cargo: 'Experto temático',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Jair Coll Gallardo',
