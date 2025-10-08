@@ -228,7 +228,7 @@
                     li Método incremental.
 
               tr
-                td Indicadores de control y Seguimiento
+                td Indicadores de control y seguimiento
                 td 
                   p.mb-2 Define la forma de cuantificar ingresos, costos y gastos.
                   ul.bullets 

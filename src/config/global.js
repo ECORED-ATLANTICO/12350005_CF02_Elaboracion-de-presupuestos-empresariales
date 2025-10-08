@@ -184,14 +184,14 @@ export default {
     {
       tema: 'Pronósticos financieros',
       referencia:
-        '¿Cómo Calcular un Presupuesto Empresarial? (2024). [Video]. YouTube. https://youtu.be/UqzDPBqDW6E',
+        '¿Cómo Calcular un Presupuesto Empresarial? (2024). [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/UqzDPBqDW6E',
     },
     {
       tema: 'Presentación de informes',
       referencia:
-        '¿Qué es un presupuesto de tesorería? (2024). [Video]. YouTube. https://youtu.be/kUtTJ11iaMY',
+        '¿Qué es un presupuesto de tesorería? (2024). [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/kUtTJ11iaMY',
     },
@@ -311,7 +311,7 @@ export default {
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -321,12 +321,12 @@ export default {
         {
           nombre: 'Gustavo Meriño',
           cargo: 'Experto temático',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Jair Coll Gallardo',
           cargo: 'Evaluador instruccional ',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },

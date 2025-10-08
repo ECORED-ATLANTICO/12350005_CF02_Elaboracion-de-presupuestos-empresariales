@@ -6,9 +6,10 @@
     .container.mb-5
       .row.align-items-center(data-aos="fade-left")
         .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
-          p El componente formativo “Elaboración y presentación del presupuesto empresarial” tiene como propósito fortalecer las competencias técnicas necesarias para construir, proyectar y comunicar presupuestos organizacionales de manera precisa y fundamentada. A partir del análisis de información histórica, se desarrollan habilidades para estimar ingresos, egresos y resultados esperados, utilizando criterios técnicos y métodos de proyección ajustados a las necesidades de distintos tipos de empresa.
-          p En este proceso, se orienta al aprendiz en el uso adecuado de herramientas tecnológicas básicas para consolidar y organizar información presupuestal de forma estructurada. Así mismo, se enfatiza en la presentación clara del informe presupuestal, integrando técnicas de redacción y estándares técnicos que faciliten su comprensión y aplicación en la gestión financiera. Este componente articula teoría y práctica mediante un caso empresarial simulado, permitiendo aplicar los conocimientos adquiridos y desarrollar criterio profesional en el análisis presupuestal.
-          p Partiendo de lo anterior, se invita a que acceda al siguiente video, el cual relaciona la temática a tratar durante este componente formativo:
+          p El componente formativo Elaboración y presentación del presupuesto empresarial permite al aprendiz aplicar técnicas de estimación, proyección y estructuración de presupuestos organizacionales con base en información histórica y criterios técnicos. A través del análisis de ingresos, egresos y resultados esperados, se construyen presupuestos operativos, financieros y de inversión que responden a los objetivos de diferentes tipos de empresa.
+          p Se fortalece el uso de herramientas tecnológicas como Excel para organizar la información y estructurar formatos presupuestales, así como la capacidad de redactar e interpretar informes financieros de manera clara, coherente y profesional.
+          p Así mismo relaciona además la manera de presentar los informes, lo cual es de gran relevancia para el proceso formativo; teniendo en cuenta que es la forma de como presentar, analizar y tomar decisiones con respecto a la información presentada.
+
         .col-12.col-md-12.col-lg-4.mb-4.mb-lg-0
           figure
             img.mb-4.mb-lg-0(src='@/assets/curso/img01.png', alt='imagen decorativa')

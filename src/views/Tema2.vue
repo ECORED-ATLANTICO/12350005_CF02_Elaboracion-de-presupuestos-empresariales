@@ -71,7 +71,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
-          h3.subtitle.position-relative Tipos de Ingresos
+          h3.subtitle.position-relative Tipos de ingresos
             img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
 
     //- Col8 (Slider) y Col4

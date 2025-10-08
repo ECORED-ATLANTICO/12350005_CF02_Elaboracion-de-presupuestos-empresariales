@@ -61,7 +61,7 @@
           .row.py-3.px-4.px-md-5.align-items-center.justify-content-center
             .col-12.col-lg-5.mb-4.mb-lg-0
               h4 Sistemas de inteligencia de negocios. 
-                i (Business Intelligence).
+                i (Business intelligence).
               p Generan tableros de control y análisis de indicadores presupuestales.
             .col-12.col-lg-5.mb-4.mb-lg-0
               figure
